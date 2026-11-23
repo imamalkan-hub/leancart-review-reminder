@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Review Reminder\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "E.g.: Would you like to review our product?"
+msgstr ""
+
+msgid "Email subject"
+msgstr ""
+
+msgid "Example site:"
+msgstr ""
+
+msgid "Hello,\n\nBy reviewing the products you purchased, you can help our other customers:\n\n%s\n\nThank you."
+msgstr ""
+
+msgid "How many days after the order is completed?"
+msgstr ""
+
+msgid "Reminder day"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "Would you like to review our product?"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
